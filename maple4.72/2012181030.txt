@@ -1,0 +1,73 @@
+﻿Sun Nov 22 17:00:39 2015 +0900 hp물량 및 mp물약 추가
+Sun Nov 22 16:01:57 2015 +0900 NPC를통한 맵이동 및 NPC 이모티콘추가
+Sat Nov 21 23:17:38 2015 +0900 hp/mp 모두소모시다음스테이지 못가는 버그 수정 및 몬스터와메인캐릭터가만났을때 나의 데미지 이미지 추가
+Sat Nov 21 22:27:31 2015 +0900 피격시 데미지표시
+Sat Nov 21 21:48:15 2015 +0900 hp,mp 모두 소모시 죽거나 움직이지못함(버그있음-다음스테이지로못감)
+Sat Nov 21 19:29:53 2015 +0900 인벤토리,아이템 추가
+Sat Nov 21 19:26:58 2015 +0900 hp,mp 물약 드링킹가능
+Sat Nov 21 16:31:16 2015 +0900 몬스터hp바 추가
+Fri Nov 20 04:13:56 2015 +0900 첫번째사냥터 포탈 렌더링이미지 추가 및 사냥터버그(스킬계속발동)수정
+Fri Nov 20 00:15:09 2015 +0900 스킬사용시 남아있는 버그해결(첫번째 매직)
+Thu Nov 19 01:06:23 2015 +0900 두번째 사냥터 밸런스 조정(데미지 차이)
+Thu Nov 19 00:38:08 2015 +0900 첫번째사냥터 스킬에따른 몬스터 데미지변화추가
+Wed Nov 18 18:28:34 2015 +0900 충돌처리 세부화(1번맞을시 아픈 렌더링,3번맞을시 죽는 렌더링)
+Sun Nov 15 22:45:53 2015 +0900 두번째 사냥터 충돌처리완료
+Sun Nov 15 19:49:43 2015 +0900 매직스킬2,3,몬스터와메인캐릭터 충돌처리 추가
+Sun Nov 15 16:26:58 2015 +0900 첫번째 매직 충돌처리
+Sat Nov 14 23:04:35 2015 +0900 점프,공격,스킬3 버그수정
+Sat Nov 14 18:51:41 2015 +0900 NPC 2종 추가
+Sat Nov 14 17:24:58 2015 +0900 사냥터 배경화면 좌/우 구현
+Sat Nov 14 01:11:29 2015 +0900 배경화면 좌우이동 추가
+Thu Nov 12 03:34:42 2015 +0900 맵2개 추가및 몬스터 2종추가 (리소스파일 수집및 수정)
+Wed Nov 11 21:21:51 2015 +0900 맵 3개추가
+Wed Nov 11 00:41:54 2015 +0900 npc및 마을수정
+Tue Nov 10 00:33:45 2015 +0900 맵,npc 추가
+Mon Nov 9 16:11:42 2015 +0900 npc등 배경화면 수정
+Sun Nov 8 19:33:11 2015 +0900 map
+Sat Nov 7 17:11:20 2015 +0900 기본적인마을맵구성(  npc생성,상점 , 인벤토리,아이템)
+Wed Nov 4 10:30:06 2015 +0900 change
+Tue Nov 3 14:37:17 2015 +0900 bug change
+Sat Oct 24 15:02:32 2015 +0900 skill plus
+Fri Oct 23 22:18:52 2015 +0900 png ++
+Tue Oct 20 22:10:01 2015 +0900 bug
+Sat Oct 17 22:58:21 2015 +0900 qwer
+Sat Oct 17 22:56:29 2015 +0900 qwer
+Sat Oct 17 22:55:01 2015 +0900 jumpqwerqwerqwer
+Sat Oct 17 22:53:54 2015 +0900 jump
+Sat Oct 17 22:52:37 2015 +0900 jump
+Sat Oct 17 22:51:20 2015 +0900 from pico2d import * import game_framework_maple import title_state_maple
+Sat Oct 17 22:48:37 2015 +0900 jump
+Sat Oct 17 22:46:56 2015 +0900 jump
+Sat Oct 17 22:46:28 2015 +0900 jump
+Sat Oct 17 22:45:29 2015 +0900 jump
+Sat Oct 17 22:44:38 2015 +0900 jump bug
+Sat Oct 17 22:42:23 2015 +0900 jump bug solution
+Sat Oct 17 22:40:22 2015 +0900 jump bug solution
+Wed Oct 14 18:02:30 2015 +0900 캐릭터 점프및 버그수정
+Tue Oct 13 23:27:44 2015 +0900 png수정및 캐릭터이동버그수정
+Sat Oct 10 23:36:20 2015 +0900 로고화면 및 수정
+Sat Oct 10 23:23:48 2015 +0900 로고화면구현
+Wed Oct 7 22:26:32 2015 +0900 캐릭터 이동 및 배경화면 구현했습니다
+Wed Oct 7 21:19:17 2015 +0900 이미지 수정했습니다.
+Wed Oct 7 21:18:12 2015 +0900 png로수정했습니다
+Wed Oct 7 21:12:14 2015 +0900 first png
+Wed Oct 7 21:10:10 2015 +0900 Merge branch 'master' of https://github.com/leejesean/leejesean3
+Wed Oct 7 21:08:27 2015 +0900 first png file
+Wed Oct 7 21:05:26 2015 +0900 첫번째 자료수집
+Wed Oct 7 20:58:09 2015 +0900 이미지입니다
+Wed Oct 7 20:56:09 2015 +0900 메이플스토리에맞는 png파일입니다
+Wed Oct 7 20:54:44 2015 +0900 배경과캐릭터및마법 이미지입니다
+Wed Oct 7 20:53:37 2015 +0900 캐릭터와 배경화면 수집했습니다
+Tue Oct 6 00:09:08 2015 +0900 Update first ppt
+Tue Oct 6 00:06:47 2015 +0900 fitst ppt1
+Tue Oct 6 00:03:29 2015 +0900 Merge branch 'master' of https://github.com/leejesean/leejesean3
+Tue Oct 6 00:00:13 2015 +0900 asdf
+Mon Oct 5 23:53:12 2015 +0900 first ppt
+Mon Oct 5 23:45:43 2015 +0900 asdf
+Mon Oct 5 23:40:36 2015 +0900 asdf
+Mon Oct 5 23:38:55 2015 +0900 first ppt
+Mon Oct 5 23:36:24 2015 +0900 first ppt
+Mon Oct 5 23:23:12 2015 +0900 첫번째 피피티입니다
+Wed Sep 23 17:49:34 2015 +0900 Rename 첫번째 발표 to first ppt
+Wed Sep 23 17:46:12 2015 +0900 Create 첫번째 발표
+Wed Sep 9 13:54:25 2015 +0900 Initial commit

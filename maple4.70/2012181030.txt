@@ -1,0 +1,73 @@
+cd hp물량 및 mp물약 추가
+cd NPC를통한 맵이동 및 NPC 이모티콘추가
+cd hp/mp 모두소모시다음스테이지 못가는 버그 수정 및 몬스터와메인캐릭터가만났을때 나의 데미지 이미지 추가
+cd 피격시 데미지표시
+cd hp,mp 모두 소모시 죽거나 움직이지못함(버그있음-다음스테이지로못감)
+cd 인벤토리,아이템 추가
+cd hp,mp 물약 드링킹가능
+cd 몬스터hp바 추가
+cd 첫번째사냥터 포탈 렌더링이미지 추가 및 사냥터버그(스킬계속발동)수정
+cd 스킬사용시 남아있는 버그해결(첫번째 매직)
+cd 두번째 사냥터 밸런스 조정(데미지 차이)
+cd 첫번째사냥터 스킬에따른 몬스터 데미지변화추가
+cd 충돌처리 세부화(1번맞을시 아픈 렌더링,3번맞을시 죽는 렌더링)
+cd 두번째 사냥터 충돌처리완료
+cd 매직스킬2,3,몬스터와메인캐릭터 충돌처리 추가
+cd 첫번째 매직 충돌처리
+cd 점프,공격,스킬3 버그수정
+cd NPC 2종 추가
+cd 사냥터 배경화면 좌/우 구현
+cd 배경화면 좌우이동 추가
+cd 맵2개 추가및 몬스터 2종추가 (리소스파일 수집및 수정)
+cd 맵 3개추가
+cd npc및 마을수정
+cd 맵,npc 추가
+cd npc등 배경화면 수정
+cd map
+cd 기본적인마을맵구성(  npc생성,상점 , 인벤토리,아이템)
+cd change
+cd bug change
+cd skill plus
+cd png ++
+cd bug
+cd qwer
+cd qwer
+cd jumpqwerqwerqwer
+cd jump
+cd jump
+cd from pico2d import * import game_framework_maple import title_state_maple
+cd jump
+cd jump
+cd jump
+cd jump
+cd jump bug
+cd jump bug solution
+cd jump bug solution
+cd 캐릭터 점프및 버그수정
+cd png수정및 캐릭터이동버그수정
+cd 로고화면 및 수정
+cd 로고화면구현
+cd 캐릭터 이동 및 배경화면 구현했습니다
+cd 이미지 수정했습니다.
+cd png로수정했습니다
+cd first png
+cd Merge branch 'master' of https://github.com/leejesean/leejesean3
+cd first png file
+cd 첫번째 자료수집
+cd 이미지입니다
+cd 메이플스토리에맞는 png파일입니다
+cd 배경과캐릭터및마법 이미지입니다
+cd 캐릭터와 배경화면 수집했습니다
+cd Update first ppt
+cd fitst ppt1
+cd Merge branch 'master' of https://github.com/leejesean/leejesean3
+cd asdf
+cd first ppt
+cd asdf
+cd asdf
+cd first ppt
+cd first ppt
+cd 첫번째 피피티입니다
+cd Rename 첫번째 발표 to first ppt
+cd Create 첫번째 발표
+cd Initial commit
