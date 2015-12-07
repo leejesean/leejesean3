@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "mygame_maple.py", line 11, in <module>
+  File "C:\Python34\maple\game_framework_maple.py", line 82, in run
+    start_state.enter()
+  File "C:\Python34\maple\start_state_maple.py", line 12, in enter
+    image=load_image('logo.png')
+  File "C:\Python34\maple\pico2d.py", line 295, in load_image
+    raise IOError
+OSError
